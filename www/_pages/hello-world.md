@@ -1,6 +1,6 @@
 ---
 title: Hello world
-permalink: /hell- world/
+permalink:/hello- world/
 layout: page
 ---
 This is a new page
