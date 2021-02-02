@@ -2,7 +2,10 @@
 title: Guidance
 permalink: /guidance/
 layout: page
+pillar: ECO
 ---
+
+The pillar is {{page.pillar}}
 
 This page shares information for people using this website and for countries or localities wishing to take a copy of it.
 
