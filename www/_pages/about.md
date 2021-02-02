@@ -3,6 +3,7 @@ title: About
 permalink: /about/
 layout: page
 ---
+[This is my link]({{nsdp-alice }}/guidance/)
 
 This website is for disseminating SDG indicator data. We are at an Alpha stage in development, so the site is still 'work in progress'.
 
