@@ -202,7 +202,6 @@ disclaimer:
   phase: My phase
   message: This is my message.
 
-
 goals_page:
   title: My goals page
   description: The planning phase for the VMICS 2021 has begun in preparation for a full pilot of the draft questionnaire sometimes in April.  The VMICS Steering Committee will
@@ -211,5 +210,5 @@ goals_page:
   
 reportig_status:
   title: My reporting status page
-  description: This should be a link: [line to Open SDG](https://open-sdg.org)
+  description: "This should be a link: [line to Open SDG](https://open-sdg.org)"
 
